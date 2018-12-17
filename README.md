@@ -38,6 +38,9 @@ This framework uses Selenium WebDriver-Cucumber-Junit-Maven with Page Object Mod
 
 •	Type mvn install, once completed type mvn test
 
+# Note:
+Script will fail for inexistent country and POST response validation
+
 
 # Parallel Execution:
 
@@ -60,3 +63,4 @@ This framework uses Selenium WebDriver-Cucumber-Junit-Maven with Page Object Mod
 ### Report:
 
 •	Cucumber will generate report after execution inside "\com.hellofresh.api.test\Test-Output" in index.html
+
