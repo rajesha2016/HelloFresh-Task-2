@@ -112,21 +112,21 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 588402863,
+  "duration": 579262529,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_to_access_countries()"
 });
 formatter.result({
-  "duration": 1534025704,
+  "duration": 1556514827,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 183091,
+  "duration": 154287,
   "status": "passed"
 });
 formatter.match({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "GetCountrySteps.country_is_in_response(String)"
 });
 formatter.result({
-  "duration": 523027306,
+  "duration": 575524882,
   "status": "passed"
 });
 formatter.scenario({
@@ -177,21 +177,21 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 2707965,
+  "duration": 2919199,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_to_access_countries()"
 });
 formatter.result({
-  "duration": 450742613,
+  "duration": 461463228,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 96678,
+  "duration": 98333,
   "status": "passed"
 });
 formatter.match({
@@ -204,7 +204,7 @@ formatter.match({
   "location": "GetCountrySteps.country_is_in_response(String)"
 });
 formatter.result({
-  "duration": 266749638,
+  "duration": 271637151,
   "status": "passed"
 });
 formatter.scenario({
@@ -242,21 +242,21 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 2665586,
+  "duration": 2183522,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_to_access_countries()"
 });
 formatter.result({
-  "duration": 450963117,
+  "duration": 456219463,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 240038,
+  "duration": 353933,
   "status": "passed"
 });
 formatter.match({
@@ -269,7 +269,7 @@ formatter.match({
   "location": "GetCountrySteps.country_is_in_response(String)"
 });
 formatter.result({
-  "duration": 241439648,
+  "duration": 259871293,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -379,7 +379,7 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 2333506,
+  "duration": 3850549,
   "status": "passed"
 });
 formatter.match({
@@ -392,14 +392,14 @@ formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_with_country_code_to_access_single_country(String)"
 });
 formatter.result({
-  "duration": 454473307,
+  "duration": 460063390,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 189713,
+  "duration": 388365,
   "status": "passed"
 });
 formatter.match({
@@ -412,7 +412,7 @@ formatter.match({
   "location": "GetCountrySteps.user_get_above_country_in_response(String)"
 });
 formatter.result({
-  "duration": 31637735,
+  "duration": 41064459,
   "status": "passed"
 });
 formatter.scenario({
@@ -453,7 +453,7 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 2120616,
+  "duration": 1997783,
   "status": "passed"
 });
 formatter.match({
@@ -466,14 +466,14 @@ formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_with_country_code_to_access_single_country(String)"
 });
 formatter.result({
-  "duration": 438825779,
+  "duration": 450785323,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 155942,
+  "duration": 63568,
   "status": "passed"
 });
 formatter.match({
@@ -486,7 +486,7 @@ formatter.match({
   "location": "GetCountrySteps.user_get_above_country_in_response(String)"
 });
 formatter.result({
-  "duration": 24656091,
+  "duration": 12958105,
   "status": "passed"
 });
 formatter.scenario({
@@ -527,7 +527,7 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 4991476,
+  "duration": 2223584,
   "status": "passed"
 });
 formatter.match({
@@ -540,14 +540,14 @@ formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_with_country_code_to_access_single_country(String)"
 });
 formatter.result({
-  "duration": 499969705,
+  "duration": 450394971,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 82109,
+  "duration": 537355,
   "status": "passed"
 });
 formatter.match({
@@ -560,7 +560,7 @@ formatter.match({
   "location": "GetCountrySteps.user_get_above_country_in_response(String)"
 });
 formatter.result({
-  "duration": 16248453,
+  "duration": 35599528,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -649,21 +649,21 @@ formatter.match({
   "location": "GetCountrySteps.user_has_access_to_valid_API()"
 });
 formatter.result({
-  "duration": 1976593,
+  "duration": 1436589,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_send_GET_request_to_access_countries()"
 });
 formatter.result({
-  "duration": 508607118,
+  "duration": 447560861,
   "status": "passed"
 });
 formatter.match({
   "location": "GetCountrySteps.user_get_OK_response_for_given_parameter()"
 });
 formatter.result({
-  "duration": 87739,
+  "duration": 214876,
   "status": "passed"
 });
 formatter.match({
@@ -676,8 +676,8 @@ formatter.match({
   "location": "GetCountrySteps.user_get_response_to_inexistent_country(String)"
 });
 formatter.result({
-  "duration": 286596681,
-  "error_message": "java.lang.AssertionError: 1 expectation failed.\nJSON path RestResponse.result.find{res-\u003eres.name \u003d\u003d \"Bangalore\"}.name doesn\u0027t match.\nExpected: Bangalore\n  Actual: null\n\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:83)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:77)\r\n\tat org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:84)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:238)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:250)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:483)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:655)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:210)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:169)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:275)\r\n\tat io.restassured.specification.ResponseSpecification$content$0.callCurrent(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:258)\r\n\tat io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:274)\r\n\tat TestApi.GetCountryTest.verify_AllCountry(GetCountryTest.java:70)\r\n\tat StepDefinitions.GetCountrySteps.user_get_response_to_inexistent_country(GetCountrySteps.java:74)\r\n\tat ✽.And User get response to inexistent country \"Bangalore\"(GetCountryValidation.feature:32)\r\n",
+  "duration": 271075627,
+  "error_message": "java.lang.AssertionError: 1 expectation failed.\nJSON path RestResponse.result.find{res-\u003eres.name \u003d\u003d \"Bangalore\"}.name doesn\u0027t match.\nExpected: Bangalore\n  Actual: null\n\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:83)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:77)\r\n\tat org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:84)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:60)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:235)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:247)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:451)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:613)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:210)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:166)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:251)\r\n\tat io.restassured.specification.ResponseSpecification$content$0.callCurrent(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:234)\r\n\tat io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:268)\r\n\tat TestApi.GetCountryTest.verify_AllCountry(GetCountryTest.java:70)\r\n\tat StepDefinitions.GetCountrySteps.user_get_response_to_inexistent_country(GetCountrySteps.java:74)\r\n\tat ✽.And User get response to inexistent country \"Bangalore\"(GetCountryValidation.feature:32)\r\n",
   "status": "failed"
 });
 formatter.uri("PostCountryValidation.feature");
@@ -726,29 +726,29 @@ formatter.match({
   "location": "PostCountrySteps.user_has_POST_api_key()"
 });
 formatter.result({
-  "duration": 7717651,
+  "duration": 1933883,
   "status": "passed"
 });
 formatter.match({
   "location": "PostCountrySteps.user_sends_POST_request_with_new_country()"
 });
 formatter.result({
-  "duration": 574396204,
+  "duration": 632933810,
   "status": "passed"
 });
 formatter.match({
   "location": "PostCountrySteps.user_receives_OK_response_for_given_params()"
 });
 formatter.result({
-  "duration": 344000,
+  "duration": 189051,
   "status": "passed"
 });
 formatter.match({
   "location": "PostCountrySteps.user_validate_response()"
 });
 formatter.result({
-  "duration": 262261083,
-  "error_message": "java.lang.AssertionError: 1 expectation failed.\nXML path RestResponse.messages doesn\u0027t match.\nExpected: New Country created successfully\n  Actual: \n\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:83)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:77)\r\n\tat org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:84)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:250)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:483)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:655)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:210)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:169)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:275)\r\n\tat io.restassured.specification.ResponseSpecification$content$0.callCurrent(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:258)\r\n\tat io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:274)\r\n\tat TestApi.PostCountryTest.verify_PostResponse(PostCountryTest.java:65)\r\n\tat StepDefinitions.PostCountrySteps.user_validate_response(PostCountrySteps.java:48)\r\n\tat ✽.And User validate response(PostCountryValidation.feature:8)\r\n",
+  "duration": 296485605,
+  "error_message": "java.lang.AssertionError: 1 expectation failed.\nXML path RestResponse.messages doesn\u0027t match.\nExpected: New Country created successfully\n  Actual: \n\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:83)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:77)\r\n\tat org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:84)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:247)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:451)\r\n\tat io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:613)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:210)\r\n\tat org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:166)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:251)\r\n\tat io.restassured.specification.ResponseSpecification$content$0.callCurrent(Unknown Source)\r\n\tat io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:234)\r\n\tat io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:268)\r\n\tat TestApi.PostCountryTest.verify_PostResponse(PostCountryTest.java:65)\r\n\tat StepDefinitions.PostCountrySteps.user_validate_response(PostCountrySteps.java:48)\r\n\tat ✽.And User validate response(PostCountryValidation.feature:8)\r\n",
   "status": "failed"
 });
 });

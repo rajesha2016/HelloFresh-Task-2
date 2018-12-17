@@ -10,9 +10,10 @@ import cucumber.api.junit.Cucumber;
  * this is main runner class for API Test
  */
 @RunWith(Cucumber.class)
-@CucumberOptions(features="APIFeatures", 
+@CucumberOptions(features="APIFeatures",
 				glue={"StepDefinitions"},
 				plugin={"pretty", "html:Test-Output"},
+				dryRun=false,
 				monochrome=true)
 
 public class TestRunner {	
